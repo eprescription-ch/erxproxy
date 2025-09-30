@@ -842,7 +842,7 @@ Locks an E-Prescription to prevent it from being dispensed or revoked, or any of
 **Authenticated**<br>
 Yes
 
-**Query parameters**
+**Query parameters**<br>
 none
 
 
@@ -866,6 +866,14 @@ none
   </tr>
 </table>
 
+**Example Request**
+
+```json
+{
+	"reason":"Locked for review."
+}
+```
+
 **Response**
 
 200 OK — Successfully locked the E-Prescription.
@@ -883,7 +891,7 @@ Unlocks a locked E-Prescription.
 **Authenticated**<br>
 Yes
 
-**Query parameters**
+**Query parameters**<br>
 none
 
 
@@ -906,6 +914,14 @@ none
    </td>
   </tr>
 </table>
+
+**Example Request**
+
+```json
+{
+	"reason":"Unlocked after review."
+}
+```
 
 **Response**
 
