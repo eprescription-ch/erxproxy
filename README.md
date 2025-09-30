@@ -842,7 +842,7 @@ Locks an E-Prescription to prevent it from being dispensed or revoked, or any of
 **Authenticated**<br>
 Yes
 
-**Query parameters**
+**Query parameters**<br>
 none
 
 
@@ -891,7 +891,7 @@ Unlocks a locked E-Prescription.
 **Authenticated**<br>
 Yes
 
-**Query parameters**
+**Query parameters**<br>
 none
 
 
