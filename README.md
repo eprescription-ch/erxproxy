@@ -866,6 +866,14 @@ none
   </tr>
 </table>
 
+**Example Request**
+
+```json
+{
+	"reason":"Locked for review."
+}
+```
+
 **Response**
 
 200 OK — Successfully locked the E-Prescription.
@@ -906,6 +914,14 @@ none
    </td>
   </tr>
 </table>
+
+**Example Request**
+
+```json
+{
+	"reason":"Unlocked after review."
+}
+```
 
 **Response**
 
