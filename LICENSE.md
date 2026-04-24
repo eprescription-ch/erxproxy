@@ -1,13 +1,13 @@
 # LICENSE.md
 
-## Proprietary License for the Certifaction Client repository
+## Proprietary License for the erxproxy repository
 
-Copyright (c) 2020-2023 Certifaction AG. All Rights Reserved.
+Copyright (c) 2020-2026 Certifaction AG. All Rights Reserved.
 
 This repository and its contents are the exclusive property of Certifaction AG
 and are protected by copyright and other intellectual property laws. Access to
 this repository is granted subject to
-the terms of the End User License Agreement (EULA) for the Certifaction Client
+the terms of the End User License Agreement (EULA) for the erxproxy
 Application Software.
 
 By accessing or using this repository, you agree to be bound by the terms and
